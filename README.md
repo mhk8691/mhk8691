@@ -1,4 +1,3 @@
-![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
 <h1 align="center">Hi 👋, I'm mohammadhossein kaboli</h1>
 <h3 align="center">Front end developer from Iran</h3>
 
