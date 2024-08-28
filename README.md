@@ -20,5 +20,7 @@
 <hr/>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mhk8691&show_icons=true&locale=en&layout=compact" alt="mhk8691" /></p>
 <hr/>
-<p align="center"><img alt="Coding" width="900" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"></p>
+<p align="center">
+  <img alt="Coding" width="900"  src="https://i.pinimg.com/originals/1c/0f/65/1c0f6596f6a85fdf6fb57ac4096739e6.gif">
+</p>
 
