@@ -13,7 +13,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="35"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material ui" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="38"/>
 <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="github" width="38" height="38"/>
 </p>
 <hr/>
